@@ -9,8 +9,7 @@
 #define ZERO_SYMBOL 'O'
 #define CROSS_SYMBOL 'X'
 
-struct Field
-{
+struct Field{
     int field[3][3];
 };
 
